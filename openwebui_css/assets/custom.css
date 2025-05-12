@@ -3,7 +3,7 @@
     /* 给你的代码字体起个名字，比如 'Maple Mono' */
     font-family: 'Maple Mono';
     /* 确认路径正确：相对于 custom.css，字体在 fonts/ 目录下 */
-    src: url('fonts/MapleMono-Regular.woff2') format('woff2');
+    src: url('fonts/JetBrainsMono-Regular.woff2') format('woff2');
     font-display: swap;
     font-style: normal;
 }
@@ -12,7 +12,7 @@
     /* 同上，这是斜体 */
     font-family: 'Maple Mono';
     /* 确认路径正确 */
-    src: url('fonts/MapleMono-Italic.woff2') format('woff2');
+    src: url('fonts/JetBrainsMono-Italic.woff2') format('woff2');
     font-display: swap;
     font-style: italic;
 }
